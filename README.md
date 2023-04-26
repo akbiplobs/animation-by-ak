@@ -1,2 +1,2 @@
 # animation-by-ak
-it is an animation repository
+https://akbiplobsa.github.io/animation-by-ak/
